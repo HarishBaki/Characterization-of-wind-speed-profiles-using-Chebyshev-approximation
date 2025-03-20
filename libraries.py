@@ -18,6 +18,7 @@ from sklearn.preprocessing import PolynomialFeatures
 from sklearn import preprocessing
 from sklearn.metrics import mean_absolute_error as mae
 from sklearn.metrics import mean_squared_error as mse
+from sklearn.metrics import root_mean_squared_error as rmse
 from sklearn.metrics import mean_absolute_percentage_error as mape
 from sklearn.metrics import r2_score as R2
 from scipy.interpolate import interp1d
